@@ -17,3 +17,16 @@
 
 ## Welcome/Home Page
 - If login successfully will display message **Welcome User**
+
+## Screenshots
+- **Landing Page**
+![alt text](https://github.com/alvon-X/Alphametrica/blob/master/AppScreenShots/Landing_Page.jpg?raw=true)
+
+- **Signup Page**
+![alt text](https://github.com/alvon-X/Alphametrica/blob/master/AppScreenShots/Signup_Page.jpg?raw=true)
+
+- **Login Page**
+![alt text](https://github.com/alvon-X/Alphametrica/blob/master/AppScreenShots/Login_Page.jpg?raw=true)
+
+- **Welcome Page**
+![alt text](https://github.com/alvon-X/Alphametrica/blob/master/AppScreenShots/Welcome_Page.jpg?raw=true)
