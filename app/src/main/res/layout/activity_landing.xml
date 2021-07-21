@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:fillViewport="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".LandingActivity">
+
+
+    <TextView
+        android:id="@+id/tv_tagline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="34dp"
+        android:layout_marginTop="334dp"
+        android:layout_marginEnd="67dp"
+        android:layout_marginBottom="374dp"
+        android:text="@string/tagline_1"
+        android:textSize="23sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_tagline_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="408dp"
+        android:layout_marginBottom="310dp"
+        android:text="@string/tagline_2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btn_login_page_login"
+        android:layout_width="287dp"
+        android:layout_height="53dp"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="567dp"
+        android:layout_marginEnd="64dp"
+        android:layout_marginBottom="117dp"
+        android:background="@drawable/rounded_corners"
+        android:text="@string/sign_up"
+        android:textColor="#FFF"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_landing_login"
+        android:layout_width="45dp"
+        android:layout_height="19dp"
+        android:layout_marginTop="638dp"
+        android:layout_marginBottom="79dp"
+        android:text="@string/login"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/iv_logo"
+        android:layout_width="112dp"
+        android:layout_height="61dp"
+        android:layout_marginStart="151dp"
+        android:layout_marginTop="219dp"
+        android:layout_marginEnd="151dp"
+        android:layout_marginBottom="455dp"
+        android:contentDescription="@string/logo"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/alphametrica_icon" />
+
+    <ImageView
+        android:id="@+id/iv_name"
+        android:layout_width="171dp"
+        android:layout_height="28dp"
+        android:layout_marginStart="121dp"
+        android:layout_marginTop="99dp"
+        android:layout_marginEnd="121dp"
+        android:layout_marginBottom="609dp"
+        android:contentDescription="@string/app_name"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/alphametrica_name" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

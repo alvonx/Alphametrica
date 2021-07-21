@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Alphametrica</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="tagline_2">Lorem ipsum dolor sit amet, construe sadistic elite, sed diam</string>
+    <string name="tagline_1">Stay on the top of your finance</string>
+    <string name="logo">image_logo</string>
+    <string name="user_name">Name</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="mobile_phone_number">Mobile phone number</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="input_dob">mm-dd-yyyy</string>
+    <string name="email">Email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="at_least_8_characters">at least 8 characters</string>
+    <string name="at_least_one_uppercase_letter">at least one uppercase letter</string>
+    <string name="at_least_one_lowercase_letter">at least one lowercase letter</string>
+    <string name="at_least_one_number">at least one number</string>
+    <string name="at_least_one_special_character">at least one special character</string>
+    <string name="i_agree_to_the_terms_and_conditions">I agree to the terms and conditions</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="u_login_u"><u>LOGIN</u></string>
+    <string name="enter_email">Enter email</string>
+    <string name="password">Password</string>
+    <string name="forgot_your_password">Forgot your password ?</string>
+    <string name="signup"><u>Signup</u></string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="welcome_user">Welcome User</string>
+    <string name="enter_your_email">Enter your email</string>
+</resources>
